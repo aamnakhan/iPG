@@ -1,29 +1,19 @@
 // Questions
 
 
-var q = ['What are you working on?',
+var q = [
+//product
+'What are you working on?',
 'Who needs your product?',
 'How do you know customers need what you’re making? How do you know people want this?',
-'How will you make money?',
-'How big an opportunity is there?',
-'How much money could you make per year?',
 'Why isn’t someone already doing this?',
 'What, exactly, makes you different from existing options?',
-'Why will you succeed over others? ',
 'What do you understand that others don’t?',
 'What have you learned so far from working on your product?',
-'How much does customer acquisition cost?',
-'How many users do you have?',
-'How are you meeting customers?',
-'What is your distribution strategy? How will you grow?Where do new users come from? How do users find out about you?',
+'What are your users doing now?',
 'What makes new users try you?',
 'How is your product different?',
 'Why do the reluctant users hold back?',
-'What is your growth like?',
-'What is your user growth rate?',
-'What’s the conversion rate?',
-'Who is going to be your first paying customer?',
-'How many users are paying?',
 'What resistance will users have to trying you and how will you overcome it?',
 'How are you understanding customer needs?',
 'What are the top things your users want?',
@@ -32,8 +22,34 @@ var q = ['What are you working on?',
 'What’s new about what you make?',
 'What problems and hurdles are you anticipating? How will you overcome them?',
 'Six months from now, what’s going to be your biggest problem?',
-'Why did you choose this idea? Why did you pick this idea to work on?',
 'Where is the rocket science here?',
+
+'How will you make money?',
+'How big an opportunity is there?',
+'How much money could you make per year?',
+'How are you meeting customers?',
+'What is your distribution strategy? How will you grow? Where do new users come from? How do users find out about you?',
+'How many users do you have?',
+'How much does customer acquisition cost?',
+'How many people are in your target market?',
+'How many users do your competitors have?',
+'How much are your competitors making?',
+'What are some trends in your target market, and related markets?',
+'Why not work directly with brands instead of designers?',
+'What is your growth like?',
+'What is your user growth rate?',
+'What’s the conversion rate?',
+'Who is going to be your first paying customer?',
+'How many users are paying?',
+'How big is the men\'s apparel market? Kids apparel market?',
+'What does success look like for you?',
+'Who are your competitors?',
+'Who might become competitors?',
+'What competition do you fear most?',
+
+
+'Why will you succeed over others? ',
+'Why did you choose this idea? Why did you pick this idea to work on?',
 'How does your product work in more detail?',
 'What do you understand about your users?',
 'What domain expertise do you have?',
@@ -44,13 +60,10 @@ var q = ['What are you working on?',
 'Who in your team does what?',
 'Who would you hire or how would you add to your team? Who would be your next hire?',
 'What part of your project are you going to build first? ',
-'What are you going to do next? ',
+'What are you going to do next?',
 'What is the next step with the product evolution?',
 'If your startup succeeds, what additional areas might you be able to expand into?',
-'Who are your competitors?',
-'Who might become competitors?',
-'What competition do you fear most?',
-'How much money are your competitors making?',
+
 'How big are your competitors?',
 'What is your burn rate?',
 'Have you raised funding?',
@@ -72,7 +85,21 @@ var q = ['What are you working on?',
 'What’s the worst thing that has happened? What’s the biggest mistake you have made?',
 'What keeps you up at night?',
 'Why are you uniquely qualified to work on this?',
-'Why do you want to dedicate your life to working on this?'
+'Why do you want to dedicate your life to working on this?',
+'What is your unfair advantage?',
+'What if a competitor comes in with more money?',
+'How much does acquiring a designer cost you?',
+'Do you think there will be multi tenancy with boutiques?',
+'How many designers do you need to service 2500 customers?'
+//biz model
+//user acquisition
+//traction & spends
+//competition
+//market
+//alternative solutions to same problem
+//team
+//hiring, roadmap, what next
+
 ];
 
 // Tips
